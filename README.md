@@ -23,3 +23,7 @@ This project analyzes social media campaign performance using Power BI to help e
 
 ## Outcome
 The dashboard provides clear insights into campaign performance, enabling stakeholders to identify high-performing platforms and optimize ad spend.
+![Dasboard](images/Dashboard_overview.png.png)
+![Dashboard](images/Dashboard_overview2.png.png)
+![Dashboard](images/Campaign_analysis.png.png)
+![Dashboard](images/pag2.png.png)
